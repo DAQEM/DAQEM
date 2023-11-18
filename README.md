@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Jobs+ Remastered](https://github.com/DAQEM/JobsPlusRemastered)
 - 🌱 I’m currently learning **Java, C#, SvelteKit, TypeScript**
-- 👯 I’m looking to collaborate on [Jobs+](https://github.com/DAQEM/UILib)
+- 👯 I’m looking to collaborate on [UI Lib](https://github.com/DAQEM/UILib)
 - 👨‍💻 All of my projects are available at [https://github.com/DAQEM?tab=repositories](https://github.com/DAQEM?tab=repositories)
 - 💬 Ask me about **Minecraft Modding**
 - 📫 How to reach me **admin@daqem.com**
