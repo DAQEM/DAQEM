@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on [Jobs+ Remastered](https://github.com/DAQEM/JobsPlusRemastered)
-- 🌱 I’m currently learning **Java, C#, SvelteKit and TypeScript**
+- 🔭 I’m currently working on [All kinds of different projects]([https://github.com/DAQEM/JobsPlusRemastered](https://github.com/DAQEM?tab=repositories))
+- 🌱 I’m currently learning **C++** and **Structured Text**
 - 👯 I’m looking to collaborate on [UI Lib](https://github.com/DAQEM/UILib)
 - 👨‍💻 All of my projects are available at [https://github.com/DAQEM?tab=repositories](https://github.com/DAQEM?tab=repositories)
-- 💬 Ask me about **Minecraft Modding** and **ASP.NET Development**
-- 📫 How to reach me **admin@daqem.com**
+- 💬 Ask me about **Minecraft Modding**, **ASP.NET Core** and **Web Development**.
+- 📫 How to reach me **admin@daqem.com**or **@daqem** on Discord.
 
 ### Connect me:
 
