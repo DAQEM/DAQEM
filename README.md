@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on [UI Lib](https://github.com/DAQEM/UILib)
 - 👨‍💻 All of my projects are available at [https://github.com/DAQEM?tab=repositories](https://github.com/DAQEM?tab=repositories)
 - 💬 Ask me about **Minecraft Modding**, **ASP.NET Core** and **Web Development**.
-- 📫 How to reach me **admin@daqem.com**or **@daqem** on Discord.
+- 📫 How to reach me **admin@daqem.com** or **@daqem** on Discord.
 
 ### Connect me:
 
