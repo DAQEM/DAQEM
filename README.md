@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from The Netherlands</h3>
 
 - 🔭 I’m currently working on [All kinds of different projects]([https://github.com/DAQEM/JobsPlusRemastered](https://github.com/DAQEM?tab=repositories))
-- 🌱 I’m currently learning **C++** and **Structured Text**
+- 🌱 I’m currently learning **C++**, **Structured Text** and **Hopefully PHP Soon 😊**
 - 👯 I’m looking to collaborate on [UI Lib](https://github.com/DAQEM/UILib)
 - 👨‍💻 All of my projects are available at [https://github.com/DAQEM?tab=repositories](https://github.com/DAQEM?tab=repositories)
 - 💬 Ask me about **Minecraft Modding**, **ASP.NET Core** and **Web Development**.
